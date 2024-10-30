@@ -6,7 +6,7 @@
 * Majors: Marketing Analytics, Technology for Business
 * Relevant Modules: Business Data Management, Computational Thinking & Programming, Marketing Research
 
-**DA100: Data Analytics with SQL and Tableau | [Heicoders Academy](https://cert.heicodersacademy.com/02B8HWRT68)**
+**DA100: Data Analytics with SQL and Tableau** | **[Heicoders Academy](https://cert.heicodersacademy.com/02B8HWRT68)**
 
 ## Projects
 ### Analysis of Ultra-marathons in USA  - October 2024
