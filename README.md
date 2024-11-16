@@ -21,7 +21,7 @@ I analysed a large-scale dataset of ultra-marathon race records (7.5 million+ re
 ![istockphoto-1284636483-400x400](https://github.com/user-attachments/assets/7f08c860-59d4-497f-a0be-804a34d9b514)
 
 ### GoCard Consumer Spending Analysis  - Jun to July 2024
-Conducted data analysis using SQL on remote database to identify consumer spending patterns. Created interactive Tableau dashboard to visualise key trends and insights. Developed data-driven marketing strategies to increase GoCard transaction volumes.
+As a Business Analyst at Heicoders Bank, I spearheaded an initiative to boost GoCard's credit card transaction growth by analyzing consumer spending patterns from a remote SQL Database, developing an interactive Tableau dashboard to intuitively visualise key trends and insights, and crafting data-driven marketing strategies to inform Product and Marketing Teams' decision-making and drive transaction volume increases.
 [Link to Project Output](https://github.com/hanns01o/hann_DA100capstone)]
 
 
