@@ -18,4 +18,11 @@ I collaborated with a team of Data Analysts to develop a comprehensive database 
 I analysed a large-scale dataset of ultra-marathon race records (7.5 million+ records) to uncover trends in athlete performance. I Utilised **Pandas and Seaborn in Python** to clean and refine data, and uncover valuable insights into athlete performance and demographics. 
 [Link to Project Output](https://github.com/hanns01o/ultramarathon_personalproject)
 
-![istockphoto-1284636483-400x400](https://github.com/user-attachments/assets/e1044f88-63f6-4b11-a8ca-c623bc2d116b)
+![istockphoto-1284636483-400x400](https://github.com/user-attachments/assets/7f08c860-59d4-497f-a0be-804a34d9b514)
+
+### GoCard Consumer Spending Analysis  - Jun to July 2024
+Conducted data analysis using SQL on remote database to identify consumer spending patterns. Created interactive Tableau dashboard to visualise key trends and insights. Developed data-driven marketing strategies to increase GoCard transaction volumes.
+[Link to Project Output](https://github.com/hanns01o/hann_DA100capstone)]
+
+
+
