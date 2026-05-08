@@ -9,6 +9,14 @@
 **DA100: Data Analytics with SQL and Tableau** | **[Heicoders Academy](https://cert.heicodersacademy.com/02B8HWRT68)**
 
 ## Projects
+
+### Student Learning Performance Visual Analytics Dashboard - Feb 2026
+I developed an interactive Tableau Story to analyse student learning performance using survey data from the University of Education, Vietnam National University, Hanoi. The project explored respondent demographics, GPA distribution, parental background, student lifestyle patterns, and perceived institutional factors such as lecturer quality, university support, facilities, curriculum, and peer influence. 
+
+**Tools:** Tableau, Excel, Survey Data Visualisation, Dashboard Storytelling  
+[View Tableau Dashboard](https://public.tableau.com/app/profile/hann.danish7698/viz/HannDanishAssignment1/Story1)  
+[View Project Repository](https://github.com/hanns01o/student-learning-performance)
+
 ### CoreCycleCollective Fitness Studio Model (SMU)  - Aug to Nov 2024
 I collaborated with a team of Data Analysts to develop a comprehensive database solution for a fictional Spin and Pilates Studio. This involved designing an Enhanced Entity Relationship (EER) model and leveraging SQL expertise to create optimised tables, populate data, and generate actionable insights through targeted queries.
 [Link to Project Output](https://github.com/hanns01o/bdm-project)
