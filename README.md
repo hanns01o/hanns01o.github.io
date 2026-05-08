@@ -10,6 +10,15 @@
 
 ## Projects
 
+### Sailor Shift & Oceanus Folk Knowledge Graph Visual Analytics - Apr 2026
+Group project analysing a large fictional music-industry knowledge graph to trace Sailor Shift’s rise to stardom, her collaboration network, artistic influence, and the spread of Oceanus Folk across the wider music ecosystem.
+
+The project combined Python-based data extraction, Gephi network analysis, Tableau visualisations, and a Quarto website to transform graph data into an interactive visual analytics report. We analysed career trajectories, influence lineages, collaboration networks, genre diffusion, and rising-star indicators using methods such as ego networks, modularity-based community detection, degree centrality, betweenness centrality, PageRank, temporal timelines, and genre-level diffusion charts.
+
+**Tools:** Python, Gephi, Tableau, Quarto, HTML/CSS, Knowledge Graphs, Network Analysis  
+[View Live Website](https://is-428.vercel.app/)  
+[View Source Code](https://github.com/e-tayfw/IS428)
+
 ### Singapore Population Demographics Visual Analytics Dashboard - Mar 2026
 I designed an interactive Tableau Story analysing Singapore’s resident population trends from 2020 to 2025, using Department of Statistics data on planning area, subzone, age group, sex, and type of dwelling.
 
