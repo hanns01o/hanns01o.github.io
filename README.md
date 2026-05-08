@@ -10,6 +10,15 @@
 
 ## Projects
 
+### Singapore Population Demographics Visual Analytics Dashboard - Mar 2026
+I designed an interactive Tableau Story analysing Singapore’s resident population trends from 2020 to 2025, using Department of Statistics data on planning area, subzone, age group, sex, and type of dwelling.
+
+The project was framed as a data journalism piece for a general audience, with visualisations covering overall population trends, age-sex structure, ageing population patterns, dependency ratios, geographic distribution, and dwelling-type composition. I used population pyramids, stacked area charts, percentage-change line charts, choropleth maps, calculated fields, and interactive filters to communicate demographic change clearly.
+
+**Tools:** Tableau, Excel, Geographic Visualisation, Demographic Analysis, Data Storytelling  
+[View Tableau Dashboard](https://public.tableau.com/app/profile/hann.danish7698/viz/HannDanishAssignment2/Story1)  
+[View Project Repository](https://github.com/hanns01o/singapore-demographic-structures-dashboard)
+
 ### Student Learning Performance Visual Analytics Dashboard - Feb 2026
 I developed an interactive Tableau Story to analyse student learning performance using survey data from the University of Education, Vietnam National University, Hanoi. The project explored respondent demographics, GPA distribution, parental background, student lifestyle patterns, and perceived institutional factors such as lecturer quality, university support, facilities, curriculum, and peer influence. 
 
