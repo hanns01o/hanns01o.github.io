@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-**Technical Skills: Python(Pandas, Seaborn), SQL, Tableau, SPSS, Excel**
+**Technical Skills:** Python, SQL, Tableau, Power BI, Excel, SPSS, Gephi, Quarto, Network Analysis, Knowledge Graph Analytics
 
 ## Education
 **Bachelors of Business Management | Singapore Management University**
